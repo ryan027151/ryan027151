@@ -1,6 +1,6 @@
 - 👋 Hi, I’m XuanTing (Ryan)
 - 👀 I’m interested in Data Analysis, Machine Learning, and AI
-- 🌱 I learned Python and MySQL, C++. I hate JS
+- 🌱 I learned Python and MySQL, C++
 - 💞️ I’m looking to collaborate on my Linkedin: linkedin.com/in/xuanting-lin-85985a215
 - 📫 How to reach me ryan027151@gmail.com
 
